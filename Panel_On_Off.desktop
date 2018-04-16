@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Panel On/Off
+Comment=Startet oder beendet das Xfce4-Panel
+Exec=xfce4-panel-switch
+Icon=xfce4-panel
+Path=
+Terminal=false
+StartupNotify=false
+GenericName=Startet und beendet per Klick das Xfce4-Pannel unter Xfce
